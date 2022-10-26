@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+starlette
+motor
+pytest
+pymongo
+pylint
+pydantic[email]
+psycopg2
+SQLAlchemy~=1.4.42
